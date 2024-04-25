@@ -1,0 +1,9 @@
+.page-container {
+    max-width: 685px;
+    height: 460px;
+    margin: 0 auto;
+    border: 5px;
+    border-radius: 10px;
+    background-color: #282d35;
+    color: white;
+}

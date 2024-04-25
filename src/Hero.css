@@ -1,0 +1,29 @@
+.hero-container {
+    padding: 57px 27px;
+    color: white;
+    background-image: url(./images/icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right 75%;
+}
+
+
+
+.hero--title {
+    margin: 0;
+    font-size: 39px;
+}
+
+.hero--facts {
+    margin-top: 46px ;
+
+}
+
+.hero--facts>li {
+    line-height: 19px;
+    padding-block: 5px;
+}
+
+.hero--facts > li::marker {
+    font-size: 1.4rem;
+    color: #61dAFB;
+}
